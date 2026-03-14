@@ -1,0 +1,3 @@
+C2 is still making changes
+
+now it will create merge conflict with C1 as C1 already merged it code in code piece
